@@ -1,3 +1,5 @@
+A game created by Prakriti Shahi in her freshman year of undergraduate education under the supervision of Professor Parag Chaudhari from the Department of Computer Science and Engineering, IIT Bombay. This game was a course project for the course CS101, Computer Programming and Utilization. 
+
 The game has the following features:
 1. The 3 required features:
   a) Modify the bubble movement to incorporate vertical motion such that the bubbles travel in a parabolic path. When the ball hits the horizontal ground, it should bounce off the ground.
